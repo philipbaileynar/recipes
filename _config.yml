@@ -1,1 +1,49 @@
-theme: jekyll-theme-leap-day
+# Site title will be used everywhere
+title: Recipes
+description: > # this means to ignore newlines until "baseurl:"
+  Favorite recipes
+
+# Final root url of the site. No ending slash. No subdirectory
+# url: https://riverscapes.github.io
+# If the site is in a subdirectory you should do it like this: "/subdirectory". Otherwise ""
+# baseurl: "/TemplateDocs"
+# When serving locally what port should we use:
+port: 4001
+
+# Markdown style
+markdown: kramdown
+# Syntax highlighter.
+highlighter: rouge
+
+# Choosing "default" layout means we don't need a "layout:default" in all our 
+# front matter
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "default"
+
+# Files/Folders to exclude from publishing
+exclude:
+  - src
+  - LICENSE
+  - README.md
+  - _config.yml
+
+# Where our layouts and templates are stored
+layouts_dir:  src/_layouts
+includes_dir: src/_includes
+
+# These are theme settings that will be used to turn features on and off
+# They are not part of Jekyll, they are entirely custom.
+settings:
+  # Turn the automatically generated page contents on and off
+  autoPageContents:
+    active: true
+    onHome: false
+  # Options for the sidebar menu      
+  sideMenu:
+    homeItem: false
+    startExpanded: true
+  

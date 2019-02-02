@@ -3,8 +3,6 @@ title: Amazing Lentil Stew
 
 ---
 
-# Amazing Lentil Stew
-
 The coconut milk gives this dish a smooth and sweet flavor, and the green curry paste and lime leaves gives it character.
 
 Serves 5-6 people.

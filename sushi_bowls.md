@@ -1,5 +1,5 @@
 ---
-Title: Sushi Bowls
+title: Sushi Bowls
 ---
 
 This is out go-to quick and easy weeknight dinner option. It's basically your choice of chopped ingredients on a bed of rice. A couple of twists give this a Japanese flair (rice vinegar mixed into the rice and seaweed garnish). We love the smoked tofu but you could use plain or omit altogether.

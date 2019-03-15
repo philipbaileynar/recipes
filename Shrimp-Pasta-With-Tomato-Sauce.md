@@ -1,5 +1,5 @@
 ---
-Title: Shrimp Pasta With Tomato Sauce
+title: Shrimp Pasta With Tomato Sauce
 ---
 
 * One 28 oz can of whole tomatoes (preferably san marzano)

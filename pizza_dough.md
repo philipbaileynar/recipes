@@ -10,7 +10,7 @@ title: Pizza Dough
 | Sea salt          |     8g |    16g |    24g |
 | Yeast             |     2g |     4g |     6g |
 | Olive Oil         |     4g |     8g |    12g |
-| Luke warm water   |   200g |   400g |   600g |
+| Luke warm water   |   200g (1 cup)|   400g (2 cups)|   600g (3 cups)|
 
 
 Mix flour and salt in a large bowl.
